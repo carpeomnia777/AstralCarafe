@@ -1,0 +1,27 @@
+body{
+    background-color: blueviolet;
+    background-image: url("bgtex.jpg");
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: 90%;
+}
+body h2{
+    font-size: large;
+    text-align: center;
+    font-family: fantasy;
+    color: whitesmoke;
+    stroke: black;
+    font-style: oblique;
+}
+body h1{
+    font-size: x-large;
+    text-align: center;
+    color: whitesmoke;
+    stroke: black;
+    font-family: fantasy;
+}
+body p{
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
