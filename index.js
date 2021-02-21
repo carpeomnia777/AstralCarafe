@@ -9,15 +9,4 @@ function validate() {
         document.myform.name.focus()
         return false
     }
-    function myfun3(){
-        var txt
-    var person= prompt('enter name')
-    
-    if (person==null){
-        txt="you cancelled"
-    }
-    else{
-        txt="hello "+ person
-    }
-    document.getElementById('pro').innerHTML=txt
-    }
+   
