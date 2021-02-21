@@ -2,7 +2,7 @@ body{
     background-color: blueviolet;
     background-image: url("bgtex.jpg");
     background-position: center;
-    background-repeat: repeat-y;
+    background-repeat: no-repeat;
     background-size: 90%;
 }
 body h2{
