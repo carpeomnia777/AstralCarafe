@@ -3,7 +3,7 @@ body{
     background-image: url("bgtex.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 90%;
+    background-size: cover;
 }
 body h2{
     font-size: large;
